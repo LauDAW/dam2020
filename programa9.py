@@ -16,7 +16,7 @@ if num_min > num_max:
 else:
     paroimpar(num_min, num_max)
 
-print("== Implementar programa 5 en funciones ==")
+print("== Implementar programa 6 en funciones ==")
 
 num = int(input("Introduzca un número entero (mayor que 0): "))
 
