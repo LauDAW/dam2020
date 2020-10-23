@@ -1,4 +1,4 @@
-print("== Convertir binarios en enteros ==")
+print("== Convertir números binarios en enteros ==")
 
 binario = int(input("Introduce un número binario para transformar: "))
 
